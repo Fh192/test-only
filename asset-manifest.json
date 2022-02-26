@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-only/static/css/main.4acd1fe6.css",
+    "main.js": "/test-only/static/js/main.fa80d1dc.js",
+    "index.html": "/test-only/index.html",
+    "static/media/errorIcon.svg": "/test-only/static/media/errorIcon.60f1e271cf8e4fc065fc59d7c494ed1e.svg",
+    "main.4acd1fe6.css.map": "/test-only/static/css/main.4acd1fe6.css.map",
+    "main.fa80d1dc.js.map": "/test-only/static/js/main.fa80d1dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4acd1fe6.css",
+    "static/js/main.fa80d1dc.js"
+  ]
+}
